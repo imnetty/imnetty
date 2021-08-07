@@ -1,0 +1,10 @@
+{
+  "cacheDirectory" : "C:\\Users\\Adam Hill/Server Name/",
+  "clientUrl" : "https://google.com",
+  "downloadSpeedLimit" : 1115242880.0,
+  "serverName" : "Server Name",
+  "updatePackages" : "https://google.com",
+  "updateType" : [
+    "CLIENT"
+  ]
+}

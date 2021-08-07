@@ -1,4 +1,9 @@
-*.bin
+RLaunch/.classpath
+RLaunch/.gradle
+RLaunch/build/**/*
 *.lock
+*.bin
+*.xml
 *.class
-RLaunch/.idea/**/*
+*.zip
+#/.idea
